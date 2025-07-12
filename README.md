@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidarr1412" alt="paulgary452" /></a> </p>
 
-- 🔭 I’m currently working on **Point of Sale Website and Lost and Found Management System**
+- 🔭 I’m currently working on **AI Chat Bot and currently Data mining project about Tachysensia**
 
-- 👯 I’m looking to collaborate on **Point of Sale Websites**
+- 👯 I’m looking to collaborate on **AI Chat Bot**
 
 - 🤝 I’m looking for help with **Machine Learning Algorithm**
 

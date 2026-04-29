@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Startup (TBA)**
   
-- 🔭 I’m currently studying  **Tachysensia causes ,datamining more information about it**
+- 🔭 I’m currently studying  about **Tachysensia causes ,data mining more information about it**
 
-- 👯 I’m looking to collaborate on **Starup (TBA)**
+- 👯 I’m looking to collaborate on a **Startup (TBA)**
 
 - 🤝 I’m looking for help with **LLM**
 

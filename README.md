@@ -9,11 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidarr1412" alt="paulgary452" /></a> </p>
 
-- 🔭 I’m currently working on **AI Chat Bot and currently Data mining project about Tachysensia**
+- 🔭 I’m currently working on **Startup (TBA)**
+  
+- 🔭 I’m currently studying  **Tachysensia causes ,datamining more information about it**
 
-- 👯 I’m looking to collaborate on **AI Chat Bot**
+- 👯 I’m looking to collaborate on **Starup (TBA)**
 
-- 🤝 I’m looking for help with **Machine Learning Algorithm**
+- 🤝 I’m looking for help with **LLM**
 
 - 📫 How to reach me **paulgary452@gmail.com**
 

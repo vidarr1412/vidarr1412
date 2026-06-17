@@ -10,8 +10,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidarr1412" alt="paulgary452" /></a> </p>
 
 - 🔭 I’m currently working on **Startup (TBA)**
-  
-- 🔭 I’m currently studying  about **Tachysensia causes ,data mining more information about it**
 
 - 👯 I’m looking to collaborate on a **Startup (TBA)**
 
